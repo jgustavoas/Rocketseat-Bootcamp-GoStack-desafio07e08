@@ -6,7 +6,7 @@ Desafio 8: Utilizando React Hooks (nesse desafio a aplicação recebeu as fucion
  
 
 Nota: Houve um problema de conexão com a api usando o dispositivo físico Android. 
-      Foi um erro de request à network cuja solução* foi encontrada através desta issue https://github.com/facebook/react-native/issues/24039 
+      Um erro de request à network cuja solução* foi encontrada através desta issue https://github.com/facebook/react-native/issues/24039 
       A resposta original encontra-se nesta página: https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted/50834600#50834600
 
 *A solução funcionou apenas no dispositivo virtual (Nexus 6 pelo Genymotion), pois no dispositivo físico o problema tem persistido.
